@@ -10,6 +10,14 @@ This Python project showcases a 3D cube rotation implemented entirely from scrat
 
 - Pixel Drawing Algorithms: The code employs pixel drawing algorithms to render the cube on the screen, ensuring smooth and efficient visualization.
 
+- Control over the resolution and size of the cube
+
+# Preview
+![](https://github.com/eyalmutzary/3DCube/blob/master/low.gif)
+
+![](https://github.com/eyalmutzary/3DCube/blob/master/high.gif)
+
+
 # Getting Started
 Clone the repository to your local machine and run the script.
 
