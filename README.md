@@ -24,9 +24,6 @@ Clone the repository to your local machine and run the script.
 # Usage
 Feel free to explore the code, modify the cube's appearance, or integrate it into your projects to understand the mechanics of 3D rotations and pixel rendering.
 
-# Acknowledgments
-This project was inspired by a passion for both programming and mathematics. It serves as an educational tool and a testament to what can be achieved through creative coding.
-
 # Contact
 If you have any questions, suggestions, or issues, please feel free to contact me at eyalmu1@gmail.com.
 
